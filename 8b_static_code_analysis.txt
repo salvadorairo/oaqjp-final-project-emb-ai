@@ -1,0 +1,8 @@
+theia@theiadocker-salvadorairo:/home/project/final_proj
+ect/oaqjp-final-project-emb-ai$ pylint server.py
+************* Module server
+server.py:59:0: C0304: Final newline missing (missing-final-newline)
+server.py:10:0: E0611: No name 'emotion_detector' in module 'EmotionDetection.emotion_detection' (no-name-in-module)
+
+------------------------------------------------------------------
+Your code has been rated at 6.84/10 (previous run: 0.00/10, +6.84)
